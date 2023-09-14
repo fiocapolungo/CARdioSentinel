@@ -1,5 +1,5 @@
 # CARdioSentinel
-ST PARKING è uno dei progetti del Neapolis Innovation Summer Campus 2023 ideato, progettato e sviluppato da un Team composto da:
+CARdioSentinel è uno dei progetti del Neapolis Innovation Summer Campus 2023 ideato, progettato e sviluppato da un Team composto da:
 
 Fiorella Capolungo - Università Degli Studi di Napoli Federico II
 Domenico Mennillo - Università Degli Studi di Napoli Federico II
